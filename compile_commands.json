@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\source\\c++\\Section4\\Project2\\main.cpp",
+  "directory": "C:\\source\\c++\\Section4\\Project2",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\source\\c++\\Section4\\Project2\\main.cpp -o C:\\source\\c++\\Section4\\Project2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\source\\c++\\Section4\\Project1\\main.cpp",
+  "directory": "C:\\source\\c++\\Section4\\Project1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\source\\c++\\Section4\\Project1\\main.cpp -o C:\\source\\c++\\Section4\\Project1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\source\\c++\\Section4\\LinkerError\\main.cpp",
+  "directory": "C:\\source\\c++\\Section4\\LinkerError",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\source\\c++\\Section4\\LinkerError\\main.cpp -o C:\\source\\c++\\Section4\\LinkerError\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\source\\c++\\Section4\\CompilerWarnings\\main.cpp",
+  "directory": "C:\\source\\c++\\Section4\\CompilerWarnings",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\source\\c++\\Section4\\CompilerWarnings\\main.cpp -o C:\\source\\c++\\Section4\\CompilerWarnings\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\source\\c++\\Section4\\FirstProgram\\main.cpp",
+  "directory": "C:\\source\\c++\\Section4\\FirstProgram",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\source\\c++\\Section4\\FirstProgram\\main.cpp -o C:\\source\\c++\\Section4\\FirstProgram\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\source\\c++\\Section4\\FirstProgramDev\\main.cpp",
+  "directory": "C:\\source\\c++\\Section4\\FirstProgramDev",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\source\\c++\\Section4\\FirstProgramDev\\main.cpp -o C:\\source\\c++\\Section4\\FirstProgramDev\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\source\\c++\\Section4\\CompilerErrors\\main.cpp",
+  "directory": "C:\\source\\c++\\Section4\\CompilerErrors",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\source\\c++\\Section4\\CompilerErrors\\main.cpp -o C:\\source\\c++\\Section4\\CompilerErrors\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\source\\c++\\Section4\\ChallengeSolution\\main.cpp",
+  "directory": "C:\\source\\c++\\Section4\\ChallengeSolution",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\source\\c++\\Section4\\ChallengeSolution\\main.cpp -o C:\\source\\c++\\Section4\\ChallengeSolution\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
